@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>VIP Preferred at Parx Casino & Racing</title>
+    <title>VIP Preferred at Silver Slipper Casino</title>
     <?php require_once __DIR__ . '/../../silverslipper-vip-portal/vendor/engaged-nation/portal-core/GoogleTagManager/Resources/public/gtm.php'; ?>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
