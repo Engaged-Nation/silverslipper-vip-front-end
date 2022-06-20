@@ -31,7 +31,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js"></script>
     <script src="https://ds94t24nq4vzb.cloudfront.net/bootstrap/3-4-1/bootstrap.min.js"></script>
-    <script async defer src="https://tools.luckyorange.com/core/lo.js?site-id=65d5d6ff"></script>
+
 </head>
 <body>
 
